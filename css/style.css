@@ -5,7 +5,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #00D5AA;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0.9332107843137255) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+*{
+    color: white;
+}
+#h1{
+    padding: 50px;
+    text-align: start;
 }
 .slider{
     width: 800px;
