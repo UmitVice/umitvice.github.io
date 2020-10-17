@@ -1,16 +1,17 @@
 body{
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(90deg,#000658,#0099ff);
+    background-image: linear-gradient(120deg,#000658,#0099ff);
 }
 #h1{
     color: white;
+    text-align: center;
 }
 .slider{
     width: 854px;
     height: 480px;
-    margin-top: 100px;
-    margin-left: 500px;
+    margin-top: 50px;
+    margin-left: 30%;
     border-radius: 10px;
     height: 100vh;
     overflow: hidden;
